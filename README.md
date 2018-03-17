@@ -1,3 +1,3 @@
 # Studing-lab
 
-This rep was created be Eugene
+This rep was created by Eugene
